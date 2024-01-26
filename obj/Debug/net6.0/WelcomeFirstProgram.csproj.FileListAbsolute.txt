@@ -1,0 +1,15 @@
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\bin\Debug\net6.0\WelcomeFirstProgram.exe
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\bin\Debug\net6.0\WelcomeFirstProgram.deps.json
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\bin\Debug\net6.0\WelcomeFirstProgram.runtimeconfig.json
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\bin\Debug\net6.0\WelcomeFirstProgram.dll
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\bin\Debug\net6.0\WelcomeFirstProgram.pdb
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\obj\Debug\net6.0\WelcomeFirstProgram.csproj.AssemblyReference.cache
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\obj\Debug\net6.0\WelcomeFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\obj\Debug\net6.0\WelcomeFirstProgram.AssemblyInfoInputs.cache
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\obj\Debug\net6.0\WelcomeFirstProgram.AssemblyInfo.cs
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\obj\Debug\net6.0\WelcomeFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\obj\Debug\net6.0\WelcomeFirstProgram.dll
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\obj\Debug\net6.0\refint\WelcomeFirstProgram.dll
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\obj\Debug\net6.0\WelcomeFirstProgram.pdb
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\obj\Debug\net6.0\WelcomeFirstProgram.genruntimeconfig.cache
+C:\Users\sumib\source\repos\WelcomeFirstProgram\WelcomeFirstProgram\obj\Debug\net6.0\ref\WelcomeFirstProgram.dll
